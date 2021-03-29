@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent
-- 👀 I’m newbie to Rails, and working on it
+- 👀 I’m newbie to Rails, still working on it
 
 
 <!---
